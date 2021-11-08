@@ -1,0 +1,1 @@
+This is a book app where the users can check out various books of their favourite genre. The user can select the book of this type, check the book description, ratings, reviews and the summary of the book. If the user is interested in that particular book, he/she can add it to the reading list and enjoy reading the book online.
